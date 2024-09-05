@@ -1,6 +1,4 @@
-Here’s a draft for your README file with icons and relevant changes for your Honeywell Hackathon project:
 
----
 
 # 🔥 Honeywell Hackathon Project: Fire Solutions RAG Chatbot
 
